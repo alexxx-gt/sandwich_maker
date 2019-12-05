@@ -1,0 +1,14 @@
+{
+    "extends": "tslint:latest",
+    "linterOptions": {
+        "exclude": [
+            "bin",
+            "dist/*",
+            "store/*",
+            "views/*",
+            "components/*",
+            "src/*",
+            "lib/*generated.js"
+        ]
+    }
+  }
